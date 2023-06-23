@@ -16,8 +16,6 @@ Aqui estão armazenados os arquivos utilizados no desenvolvimento do projeto int
 
 ## Guia do repositório:
 
-* **'index.css'**: É um arquivo linkado em todos os arquivos .html, contendo a estilização universal do cabeçalho e rodapé, dois elementos que todas as páginas compartilham. Os outros arquivos .css são específicos para cada página.
-
 * **'ProjetoUnIfortes.brM3'**: Arquivo contendo o modelo conceitual do banco de dados feito com o software brmodelo[^1].
 
 * **'fortes_db.architect'**: Arquivo contendo o modelo lógico do banco de dados feito com o software Power Architect[^2].
